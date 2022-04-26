@@ -1,0 +1,16 @@
+{
+    "game": "1647",
+    "gameButtonImage": "348x348/1647.jpg",
+    "gamePresentedImage": "348x348/1647.jpg",
+    "gameInfo": "info/1647.jpg",
+    "vendImage": "348x348/1647.jpg",
+    "priceDisplayColor": "",
+    "info" : {
+        "ticketPrice": "USD2.00",
+        "numberOfTickets": ["1", "2", "3", "4", "5", "10"],
+        "newGame": "false",
+        "secondChance": "false",
+        "staticPrice": "true",
+        "lowTicketCount": "5"
+    }
+}
